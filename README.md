@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+## US population evolution graph
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+See example [Demo](https://usa-population.netlify.app/).
 
 ## Available Scripts
 
