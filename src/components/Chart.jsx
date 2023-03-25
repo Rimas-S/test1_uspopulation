@@ -29,7 +29,7 @@ const Chart = ({ data }) => (
       tickSize: 5,
       tickPadding: 5,
       tickRotation: 0,
-      legend: "population (in million)",
+      legend: "population (in millions)",
       legendOffset: -50,
       legendPosition: "middle",
     }}
